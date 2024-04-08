@@ -1,0 +1,24 @@
+.home-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: white;
+}
+
+.data-container {
+  padding: 10px;
+  width: 260px;
+  border: solid;
+  border-width: 1px;
+  border-color: #d3d3d3;
+  border-radius: 10px;
+}
+
+.user-block {
+  height: 30px;
+}
+
+.user-text {
+  font-weight: 28px;
+}
